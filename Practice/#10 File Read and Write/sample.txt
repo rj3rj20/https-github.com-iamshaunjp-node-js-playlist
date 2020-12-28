@@ -1,1 +1,1 @@
-Here goes the content of your file.
+Here goes the contents of your file.
